@@ -13,8 +13,6 @@ Cyber-Physical Systems (CPS) are integrated systems where computers interact wit
     Entertainment
     Consumer Electronics
 
-The leading generation of CPS can be found across these sectors, driving innovation and enhancing efficiency.
-Objectives
 
 The primary objectives of the CPS Laboratory are:
 
@@ -23,8 +21,7 @@ The primary objectives of the CPS Laboratory are:
     To collaborate with industry and academia to bridge the gap between theoretical research and practical applications.
     To train and educate the next generation of engineers and researchers in the field of CPS.
 
-Research Areas
-
+ 
 Our research is focused on, but not limited to, the following areas:
 
     Embedded Systems

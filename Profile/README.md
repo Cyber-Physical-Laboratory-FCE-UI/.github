@@ -1,7 +1,6 @@
 Cyber-Physical Systems Laboratory
 
 Welcome to the Cyber-Physical Systems (CPS) Laboratory at the Faculty of Computer Engineering, University of Isfahan. This laboratory has been established with the mission to conduct cutting-edge applied research in the field of cyber-physical systems, which are integral to numerous modern technological domains.
-Overview
 
 Cyber-Physical Systems (CPS) are integrated systems where computers interact with and control physical entities. These systems are fundamental to a wide range of industries, including:
 
